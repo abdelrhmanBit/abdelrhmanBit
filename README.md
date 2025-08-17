@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Abdelrhman 👋
 
-<!--
-**abdelrhmanBit/abdelrhmanBit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Cybersecurity Enthusiast, focused on penetration testing and ethical hacking  
+- Programming with **JavaScript** and **Python**  
+- Frontend development and working with modern web stacks  
+- Daily user of **Kali Linux** and **Arch Linux**, comfortable with the Linux terminal and scripting  
+- Interested in system security, automation, and low-level exploration  
 
-Here are some ideas to get you started:
+## Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=archlinux&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=dark)
