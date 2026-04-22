@@ -14,11 +14,11 @@
   <tr>
     <td width="60%">
       <h3>📈 Activity Visualization</h3>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=000&color=7000ff&line=7000ff&point=ffffff&area=true&hide_border=true" width="100%" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=EyeQ-Root&bg_color=000&color=7000ff&line=7000ff&point=ffffff&area=true&hide_border=true" width="100%" />
     </td>
     <td width="40%" align="center">
       <h3>🏆 Global Rank</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&rank_icon=github&display_format=v2" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=EyeQ-Root&show_icons=true&theme=tokyonight&rank_icon=github&display_format=v2" width="100%" />
     </td>
   </tr>
 </table>
@@ -28,8 +28,8 @@
 <div align="center">
   <h3>🏙️ Contribution Skyline (3D View)</h3>
   <p>هذا الجزء يعرض نشاطك السنوي كأنه ناطحات سحاب تقنية</p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&theme=vision-friendly-dark" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=dracula" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EyeQ-Root&layout=donut&theme=vision-friendly-dark" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EyeQ-Root&theme=dracula" width="45%" />
 </div>
 
 <hr>
