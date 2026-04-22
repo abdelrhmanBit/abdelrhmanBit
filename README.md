@@ -1,69 +1,52 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=PROJECT%20NAME&fontSize=70&animation=fadeIn" width="100%" />
-  
-  <br>
+  <img src="https://capsule-render.vercel.app/render?type=glitch&color=000&height=250&section=header&text=TIMELINE%20OS&fontSize=80&animation=twinkling" width="100%" />
 
-  <p align="center">
-    <a href="https://github.com/username">
-      <img src="https://img.shields.io/badge/DEVELOPER-PRO-blueviolet?style=for-the-badge&logo=github" />
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=for-the-badge" />
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/LICENSE-MIT-red?style=for-the-badge" />
-    </a>
+  <p>
+    <img src="https://img.shields.io/badge/System-Core_v2.0-000?style=for-the-badge&logo=cpu&logoColor=white" />
+    <img src="https://img.shields.io/badge/Status-Online-000?style=for-the-badge&logo=statuspage&logoColor=green" />
+    <img src="https://img.shields.io/badge/Secure-Encrypted-000?style=for-the-badge&logo=hackthebox&logoColor=red" />
   </p>
-</div>
-
-<hr>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <h3>🚀 المميزات الخارقة</h3>
-      <p align="left">
-        • <b>سرعة جنونية:</b> استجابة فورية.<br>
-        • <b>واجهة Custom:</b> تصميم فريد بالكامل.<br>
-        • <b>دعم شامل:</b> يعمل على كافة المنصات.
-      </p>
-    </td>
-    <td width="50%" align="center">
-      <h3>🛠️ التكنولوجيا المستخدمة</h3>
-      <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,mongodb,python" />
-    </td>
-  </tr>
-</table>
-
-<hr>
-
-<details>
-  <summary align="center">
-    <b>📐 اضغط هنا لمشاهدة الهيكل الهندسي للمشروع (Structure)</b>
-  </summary>
-  <br>
-  <div align="center">
-    <img src="https://img.shields.io/badge/System-Modular-orange?style=flat-square" />
-    <img src="https://img.shields.io/badge/Security-Verified-green?style=flat-square" />
-  </div>
-  <blockquote>
-    هذا المشروع صُمم ليكون غير قابل للضياع، مع توثيق لكل شاردة وواردة لضمان استمرارية العمل.
-  </blockquote>
-</details>
-
-<hr>
-
-<div align="center">
-  <h3>📊 إحصائيات المستودع</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" width="48%" />
 </div>
 
 <br>
 
+<table border="0" width="100%">
+  <tr>
+    <td width="60%">
+      <h3>📈 Activity Visualization</h3>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=000&color=7000ff&line=7000ff&point=ffffff&area=true&hide_border=true" width="100%" />
+    </td>
+    <td width="40%" align="center">
+      <h3>🏆 Global Rank</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&rank_icon=github&display_format=v2" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <div align="center">
-  <p>صُنع بكل ☕ وحب ليكون علامة مميزة</p>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <h3>🏙️ Contribution Skyline (3D View)</h3>
+  <p>هذا الجزء يعرض نشاطك السنوي كأنه ناطحات سحاب تقنية</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&theme=vision-friendly-dark" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=dracula" width="45%" />
+</div>
+
+<hr>
+
+<details>
+  <summary><b>📂 [ SYSTEM LOGS ] - اضغط لعرض سجل الأحداث</b></summary>
+  <br>
+  <div align="left">
+    <code>[INFO] Initialize Neural Network... DONE</code><br>
+    <code>[INFO] Syncing with GitHub Timeline... DONE</code><br>
+    <code>[WARN] Energy levels at 98% - Optimization required.</code>
+  </div>
+</details>
+
+<br>
+
+<div align="right">
+  <sub>Last Sync: 2026-04-22 </sub>
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/master/get_visitor_count.gif" />
 </div>
